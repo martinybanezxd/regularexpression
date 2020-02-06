@@ -1,7 +1,7 @@
 body{
 	background: linear-gradient(rgba(0,0,90,0.1),rgba(0,0,90,0.1)),url(weather.png);
-	background-size: cover;
-	background-position: center;
+	background-size: auto;
+	background-repeat: no-repeat;
 }
 
 .login-box{
